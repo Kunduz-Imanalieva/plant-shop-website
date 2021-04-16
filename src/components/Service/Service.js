@@ -1,6 +1,11 @@
+import serviceBackground from "../../images/service.svg";
+
 const Service = () => {
     return ( <div>
-        This is service 
+        <div>
+            <img src={serviceBackground} alt="service" width="1311px"/>
+            
+        </div>
     </div> );
 }
  
