@@ -5,6 +5,8 @@
   font-family: Arial, Helvetica, sans-serif;
   color: #fff;
   text-decoration: none;
+  font-weight: bold;
+  text-align: center;
 }
 
 .App ul {
@@ -12,8 +14,13 @@
   justify-content: center;
   list-style-type: none;
   background-color: #2c2c2c;
+  padding-left: 0px;
 }
 
 .App li{
   padding: 20px;
+}
+
+.App li:hover{
+  background-color:#0a0a0a;
 }
