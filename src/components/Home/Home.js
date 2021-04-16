@@ -3,9 +3,13 @@ import homeBackground from "../../images/home.svg";
 
 const Home = () => {
   return (
-    <div className={classes.Home}>
+    <div>
       <div>
         <img src={homeBackground} alt="background" width="1311px" />
+        <div className={classes.Home}>
+          <h1>Let’s find your love plants.</h1>
+          <p>Add some color to your home, give it a little attention, the plants will accompany you quietly</p>
+        </div>
       </div>
     </div>
   );

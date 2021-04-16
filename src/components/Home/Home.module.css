@@ -1,0 +1,21 @@
+.Home{
+    position: absolute;
+width: 500px;
+height: 385px;
+left: 390px;
+top: 200px;
+}
+
+.Home h1 {
+    color: #fff;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.Home p{
+    padding: 20px;
+    line-height: 130%;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 400;
+}
