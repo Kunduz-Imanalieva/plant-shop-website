@@ -7,6 +7,7 @@
     border: 1px solid rgba(255, 255, 255, 0.2);
     background: linear-gradient(113.96deg, #213F36 0%, rgba(33, 63, 54, 0.2) 100%);
     border-radius: 16px;
+    align-items: center;
 }
 
 .Service h1 {
@@ -17,4 +18,13 @@
 
 .Service p{
     padding: 20px;
+}
+
+.button {
+    width: 100px;
+    border: 1px solid #105200;
+    margin-left: 200px;
+    background-color: #105200;
+    border-radius: 40px;
+    padding: 10px;
 }
